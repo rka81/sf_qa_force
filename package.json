@@ -1,0 +1,23 @@
+{
+  "name": "sf_qa_force",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rka81/sf_qa_force.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rka81/sf_qa_force/issues"
+  },
+  "homepage": "https://github.com/rka81/sf_qa_force#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  }
+}
